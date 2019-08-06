@@ -1,0 +1,26 @@
+.controls {
+  padding: 40px 150px;
+  text-align: center;
+  background-color: rgb(33, 40, 129);
+  color: #fff;
+}
+
+.controls input {
+  display: inline-block;
+  width: 200px;
+  height: 40px;
+  margin-right: 20px;
+}
+
+.controls button {
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  color: #fff;
+  background-color: rgb(56, 166, 240);
+  border: none;
+}
+
+.controls button:not(:last-child) {
+  margin-right: 20px;
+}

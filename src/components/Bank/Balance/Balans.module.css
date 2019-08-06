@@ -1,0 +1,8 @@
+.balans {
+  margin: 0 auto 20px;
+  text-align: center;
+}
+
+.balans > span {
+  margin-right: 25px;
+}
