@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-HW/static/css/main.64acbc07.chunk.css",
-    "main.js": "/React-HW/static/js/main.2de89681.chunk.js",
-    "main.js.map": "/React-HW/static/js/main.2de89681.chunk.js.map",
-    "runtime~main.js": "/React-HW/static/js/runtime~main.236b5772.js",
-    "runtime~main.js.map": "/React-HW/static/js/runtime~main.236b5772.js.map",
-    "static/css/2.39017165.chunk.css": "/React-HW/static/css/2.39017165.chunk.css",
-    "static/js/2.f9b3acdc.chunk.js": "/React-HW/static/js/2.f9b3acdc.chunk.js",
-    "static/js/2.f9b3acdc.chunk.js.map": "/React-HW/static/js/2.f9b3acdc.chunk.js.map",
-    "index.html": "/React-HW/index.html",
-    "precache-manifest.4d5bbf41782346da8e44f932c70aae93.js": "/React-HW/precache-manifest.4d5bbf41782346da8e44f932c70aae93.js",
-    "service-worker.js": "/React-HW/service-worker.js",
-    "static/css/2.39017165.chunk.css.map": "/React-HW/static/css/2.39017165.chunk.css.map",
-    "static/css/main.64acbc07.chunk.css.map": "/React-HW/static/css/main.64acbc07.chunk.css.map"
+    "main.css": "/bank-account/static/css/main.64acbc07.chunk.css",
+    "main.js": "/bank-account/static/js/main.2de89681.chunk.js",
+    "main.js.map": "/bank-account/static/js/main.2de89681.chunk.js.map",
+    "runtime~main.js": "/bank-account/static/js/runtime~main.fa2015f1.js",
+    "runtime~main.js.map": "/bank-account/static/js/runtime~main.fa2015f1.js.map",
+    "static/css/2.39017165.chunk.css": "/bank-account/static/css/2.39017165.chunk.css",
+    "static/js/2.f9b3acdc.chunk.js": "/bank-account/static/js/2.f9b3acdc.chunk.js",
+    "static/js/2.f9b3acdc.chunk.js.map": "/bank-account/static/js/2.f9b3acdc.chunk.js.map",
+    "index.html": "/bank-account/index.html",
+    "precache-manifest.3bc6b1ec0efc4f3fe178d598b19a8752.js": "/bank-account/precache-manifest.3bc6b1ec0efc4f3fe178d598b19a8752.js",
+    "service-worker.js": "/bank-account/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/bank-account/static/css/2.39017165.chunk.css.map",
+    "static/css/main.64acbc07.chunk.css.map": "/bank-account/static/css/main.64acbc07.chunk.css.map"
   }
 }
